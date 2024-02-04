@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\bin\Debug\net6.0\ECommerceDataAccess.deps.json
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\bin\Debug\net6.0\ECommerceDataAccess.runtimeconfig.json
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\bin\Debug\net6.0\ECommerceDataAccess.dll
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\bin\Debug\net6.0\ECommerceDataAccess.pdb
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\bin\Debug\net6.0\ECommerceDataModels.dll
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\bin\Debug\net6.0\ECommerceDataModels.pdb
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ECommerceDataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ECommerceDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ECommerceDataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ECommerceDataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ECommerceDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ECommerceDataAccess.csproj.CopyComplete
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ECommerceDataAccess.dll
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\refint\ECommerceDataAccess.dll
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ECommerceDataAccess.pdb
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ECommerceDataAccess.genruntimeconfig.cache
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataAccess\obj\Debug\net6.0\ref\ECommerceDataAccess.dll

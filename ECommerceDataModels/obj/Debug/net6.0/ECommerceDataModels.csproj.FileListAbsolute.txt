@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\bin\Debug\net6.0\ECommerceDataModels.deps.json
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\bin\Debug\net6.0\ECommerceDataModels.dll
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\bin\Debug\net6.0\ECommerceDataModels.pdb
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\obj\Debug\net6.0\ECommerceDataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\obj\Debug\net6.0\ECommerceDataModels.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\obj\Debug\net6.0\ECommerceDataModels.AssemblyInfo.cs
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\obj\Debug\net6.0\ECommerceDataModels.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\obj\Debug\net6.0\ECommerceDataModels.dll
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\obj\Debug\net6.0\refint\ECommerceDataModels.dll
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\obj\Debug\net6.0\ECommerceDataModels.pdb
+C:\Users\User\source\repos\EcommercePractic\ECommerceDataModels\obj\Debug\net6.0\ref\ECommerceDataModels.dll
